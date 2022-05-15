@@ -24,6 +24,7 @@ namespace Kontaktebuch
         {
             InitializeComponent();
             //unnötig
+            //unnötig2
         }
     }
 }
