@@ -23,6 +23,7 @@ namespace Kontaktebuch
         public MainWindow()
         {
             InitializeComponent();
+            //unnötig
         }
     }
 }
